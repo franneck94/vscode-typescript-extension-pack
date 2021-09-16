@@ -2,7 +2,7 @@
   "name": "vscode-typescript-extension-pack",
   "displayName": "TypeScript Extension Pack",
   "description": "Popular VSCode extensions for TypeScript development.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "franneck94",
   "engines": {
     "vscode": "^1.57.0"
@@ -29,6 +29,8 @@
     "ms-vscode.vscode-typescript-next",
     "dbaeumer.vscode-eslint",
     "mike-co.import-sorter",
-    "pmneo.tsimporter"
+    "pmneo.tsimporter",
+    "stevencl.adddoccomments",
+    "quicktype.quicktype"
   ]
 }
