@@ -2,10 +2,10 @@
   "name": "vscode-typescript-extension-pack",
   "displayName": "TypeScript Extension Pack",
   "description": "Popular VSCode extensions for TypeScript development.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.57.0"
+    "vscode": "^1.60.0"
   },
   "icon": "logo.png",
   "galleryBanner": {
