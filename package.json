@@ -1,0 +1,36 @@
+{
+  "name": "vscode-typescript-extension-pack",
+  "displayName": "TypeScript Extension Pack",
+  "description": "Popular VSCode extensions for TypeScript development.",
+  "version": "0.2.1",
+  "publisher": "franneck94",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#222222",
+    "theme": "dark"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/franneck94/vscode-typescript-extension-pack"
+  },
+  "homepage": "https://github.com/franneck94/vscode-typescript-extension-pack",
+  "bugs": {
+    "url": "https://github.com/franneck94/vscode-typescript-extension-pack/issues"
+  },
+  "extensionPack": [
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint",
+    "mike-co.import-sorter",
+    "pmneo.tsimporter",
+    "stevencl.adddoccomments",
+    "quicktype.quicktype"
+  ]
+}
