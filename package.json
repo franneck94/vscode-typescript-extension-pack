@@ -2,10 +2,10 @@
   "name": "vscode-typescript-extension-pack",
   "displayName": "TypeScript Extension Pack",
   "description": "Popular VSCode extensions for TypeScript development.",
-  "version": "0.2.1",
+  "version": "1.0.ß",
   "publisher": "franneck94",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.83.0"
   },
   "icon": "logo.png",
   "galleryBanner": {
@@ -28,9 +28,9 @@
   "extensionPack": [
     "ms-vscode.vscode-typescript-next",
     "dbaeumer.vscode-eslint",
+    "yoavbls.pretty-ts-errors",
     "mike-co.import-sorter",
     "pmneo.tsimporter",
-    "stevencl.adddoccomments",
     "quicktype.quicktype"
   ]
 }

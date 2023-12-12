@@ -6,6 +6,7 @@ These are some of my favorite extensions for typescript development.
 
 * [TypeScript](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - JavaScript and TypeScript Nightly by Microsoft.
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint into VS Code.
+* [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors) - Make TypeScript errors prettier and human-readable in VSCode.
 * [Import Sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter) - Extension which sorts TypeScript imports.
 * [Importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter) - Automatically searches for TypeScript definitions in workspace files.
 * [Docstrings](https://marketplace.visualstudio.com/items?itemName=stevencl.addDocComments) - Adds simple jsdoc comments for the parameters of a selected function signature.

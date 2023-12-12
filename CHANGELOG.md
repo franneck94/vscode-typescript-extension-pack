@@ -1,5 +1,10 @@
 # TypeScript Extension Pack Change Log
 
+## Version 1.0.0, 12th Dec 2023
+
+- Added Pretty TypeScript Errors
+- VSCode Version Bump
+
 ## Version 0.2.1
 
 - VSCode Version Bump
